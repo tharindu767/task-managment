@@ -51,15 +51,7 @@ Backend:
 Node.js with Express.js
 MongoDB for database storage
 Socket.IO for real-time communication
-Passport.js for authentication
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
-Fork the repository.
-Create your branch: git checkout -b feature/your-feature-name
-Commit your changes: git commit -m 'Add some feature'
-Push to the branch: git push origin feature/your-feature-name
-Open a pull request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
