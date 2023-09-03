@@ -20,20 +20,20 @@ Node.js and npm: Make sure you have Node.js (v18.17.1 or later) and npm installe
 Installation
 Clone the repository:
 
-Installation ----
+Installation ******----
 
-npm I 
+npm Install 
 
 npm start
 
 Now, you should have the server and client running, and you can access the app in your web browser.
 
 Usage
-Visit http://localhost:3000 -frontned ,http://localhost:5000 backend in your web browser to access the task management app.
+Visit http://localhost:3000 or ..for the frontend  and http://localhost:5000 for the backend in your web browser to access the task management app.
 
 Create an account or log in if you have one.
 
-Start managing your tasks, create new tasks, assign them, and collaborate in real-time with other users.
+Start managing your tasks, create new tasks, assign them, and collaborate in real time with other users.
 
 Features
 Create, edit, and delete tasks.
