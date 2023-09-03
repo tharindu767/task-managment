@@ -21,7 +21,8 @@ Installation
 Clone the repository:
 
 Installation ----
-npm i
+npm I 
+
 npm start
 Now, you should have the server and client running, and you can access the app in your web browser.
 
