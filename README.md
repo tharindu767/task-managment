@@ -61,7 +61,7 @@ npm start
 Now, you should have the server and client running, and you can access the app in your web browser.
 
 Usage
-Visit http://localhost:3000 in your web browser to access the task management app.
+Visit http://localhost:3000 -frontned ,http://localhost:5000 backend in your web browser to access the task management app.
 
 Create an account or log in if you have one.
 
