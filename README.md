@@ -20,43 +20,8 @@ Node.js and npm: Make sure you have Node.js (v18.17.1 or later) and npm installe
 Installation
 Clone the repository:
 
-shell
-Copy code
-git clone https://github.com/your-username/task-management-app.git
-Change into the project directory:
-
-shell
-Copy code
-cd task-management-app
-Install server dependencies:
-
-shell
-Copy code
-cd server
-npm install
-Install client dependencies:
-
-shell
-Copy code
-cd ../client
-npm install
-Create a .env file in the server directory to configure environment variables. Example:
-
-plaintext
-Copy code
-PORT=3001
-MONGODB_URI=your_mongodb_uri_here
-Start the server:
-
-shell
-Copy code
-cd ../server
-npm start
-Start the client:
-
-shell
-Copy code
-cd ../client
+Installation ----
+npm i
 npm start
 Now, you should have the server and client running, and you can access the app in your web browser.
 
